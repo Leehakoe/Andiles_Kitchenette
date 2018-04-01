@@ -1,0 +1,32 @@
+body{
+    background-color:  #e6e6e6;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    font-family: 'Rammetto One', cursive;
+    display: block;
+    color:  #33ffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color:  black;
+}
+.mySlides {display:none;}
+}
+h1{
+    text-align: center;
+}
