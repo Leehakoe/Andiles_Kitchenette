@@ -5,6 +5,9 @@ body, html {
 	color: #414a52;
 	width: 100% !important;
 	height: 100% !important;
+	padding: 0;
+	margin: 0;
+
 }
 h2 {
 	margin: 0 0 20px 0;
